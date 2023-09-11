@@ -5,7 +5,8 @@
 layout: page
 ---
 
-![Georgia's Photo](assets/georgia.png)
+<!-- ![Georgia's Photo](assets/georgia.png) -->
+<img src="assets/georgia.png" alt="Georgia's Photo" width="200"/>
 
 I am a Lecturer (Assistant Professor equivalent) in Visualisation in the Department of Informatics at King's College London and a Visiting Fellow at the UCL Interaction Centre. My research examines how people interact with data and specifically how they handle issues such as biases, uncertainties and frictions when using data visualizations. I am also increasingly interested in topics surrounding sustainability and climate justice, especially as they relate to data and AI systems.
 
