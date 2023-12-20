@@ -6,7 +6,7 @@ permalink: /pubs/
 
 #### 2023
 
-***NEW!*** **[Embellishments Revisited: Perceptions of Embellished Visualisations Through the Viewer’s Lens]()**   
+**[Embellishments Revisited: Perceptions of Embellished Visualisations Through the Viewer’s Lens](https://ieeexplore.ieee.org/abstract/document/10294261)**   
 Muna Alebri, Enrico Costanza, Georgia Panagiotidou, Duncan Brumby  
 IEEE Transactions on Visualization and Computer Graphics
 

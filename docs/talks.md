@@ -6,6 +6,9 @@ permalink: /talks/
 
 #### **Upcoming**
 
+[Data visualisation for Digital Ethics](https://www.kuleuven.be/digisoc/education-and-training/hybrid-course-on-digital-ethics), KU Leuven Digital Society Institute, 2024, Belgium (Invited Lecture)
+
+#### **2023**
 [Information+ 2023](https://informationplusconference.com/2023/), 22-24 Nov. Edinburgh (Workshop Chair)
 
 [EduVis: Workshop on Visualization Education, Literacy, and Activities](https://ieee-eduvis.github.io) at IEEE VIS 2023 (Co-organiser)
@@ -13,8 +16,6 @@ permalink: /talks/
 [VIS4DH: Visualisation for the Digital Humanities](https://vis4dh.dbvis.de) at IEEE VIS 2023 (Co-organiser)
 
 [VIII International Conference on Digital Communication]() Madrid, Spain  (Invited Speaker)
-
-#### **2023**
 
 [Data visualisation for Digital Ethics](https://www.kuleuven.be/digisoc/education-and-training/hybrid-course-on-digital-ethics), KU Leuven Digital Society Institute, Belgium (Invited Lecture)
 
