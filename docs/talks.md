@@ -6,6 +6,8 @@ permalink: /talks/
 
 #### **Upcoming**
 
+[Women in Computer Science Panel](#), March 19th 2024, King's College London
+
 [Data visualisation for Digital Ethics](https://www.kuleuven.be/digisoc/education-and-training/hybrid-course-on-digital-ethics), KU Leuven Digital Society Institute, 2024, Belgium (Invited Lecture)
 
 #### **2023**

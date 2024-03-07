@@ -3,6 +3,15 @@ layout: page
 title: Publications
 permalink: /pubs/
 ---
+#### 2024
+
+**[From Exploration to End of Life: Unpacking Sustainability in Physicalization Practices](https://kclpure.kcl.ac.uk/portal/en/publications/from-exploration-to-end-of-life-unpacking-sustainability-in-physi)**   
+Luiz Morais, Georgia Panagiotidou, Sarah Hayes, Tatiana Losev, Rebecca Noonan, Uta Hinrichs
+Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)
+
+**[SolarClub: Supporting Renewable Energy Communities through an Interactive Coordination System](https://ieeexplore.ieee.org/abstract/document/10294261)**   
+Georgia Panagiotidou, Enrico Costanza, Kyrill Potapov, Sonia Nkatha, Michael J. Fell, Farhan Samanani, Hannah Knox  
+Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)
 
 #### 2023
 
