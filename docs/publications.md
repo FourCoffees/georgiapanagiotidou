@@ -9,7 +9,7 @@ permalink: /pubs/
 Luiz Morais, Georgia Panagiotidou, Sarah Hayes, Tatiana Losev, Rebecca Noonan, Uta Hinrichs
 Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)
 
-**[SolarClub: Supporting Renewable Energy Communities through an Interactive Coordination System](https://ieeexplore.ieee.org/abstract/document/10294261)**   
+**[SolarClub: Supporting Renewable Energy Communities through an Interactive Coordination System](https://kclpure.kcl.ac.uk/portal/en/publications/solarclub-supporting-renewable-energy-communities-through-an-inte)**   
 Georgia Panagiotidou, Enrico Costanza, Kyrill Potapov, Sonia Nkatha, Michael J. Fell, Farhan Samanani, Hannah Knox  
 Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)
 
