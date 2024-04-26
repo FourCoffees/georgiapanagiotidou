@@ -7,7 +7,7 @@ permalink: /pubs/
 
 **[From Exploration to End of Life: Unpacking Sustainability in Physicalization Practices](https://kclpure.kcl.ac.uk/portal/en/publications/from-exploration-to-end-of-life-unpacking-sustainability-in-physi)**   
 Luiz Morais, Georgia Panagiotidou, Sarah Hayes, Tatiana Losev, Rebecca Noonan, Uta Hinrichs
-Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)
+Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24 AWARDED BEST PAPER)
 
 **[SolarClub: Supporting Renewable Energy Communities through an Interactive Coordination System](https://kclpure.kcl.ac.uk/portal/en/publications/solarclub-supporting-renewable-energy-communities-through-an-inte)**   
 Georgia Panagiotidou, Enrico Costanza, Kyrill Potapov, Sonia Nkatha, Michael J. Fell, Farhan Samanani, Hannah Knox  
