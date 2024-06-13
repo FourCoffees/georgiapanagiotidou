@@ -17,7 +17,7 @@ permalink: /talks/
 
 [VIS4DH: Visualisation for the Digital Humanities](https://vis4dh.dbvis.de) at IEEE VIS 2023 (Co-organiser)
 
-[VIII International Conference on Digital Communication]() Madrid, Spain  (Invited Speaker)
+[VIII International Conference on Digital Communication](https://ciberimaginario.es/project/viii-jornadas-de-comunicacion-digital/) Madrid, Spain  (Invited Speaker)
 
 [Data visualisation for Digital Ethics](https://www.kuleuven.be/digisoc/education-and-training/hybrid-course-on-digital-ethics), KU Leuven Digital Society Institute, Belgium (Invited Lecture)
 
