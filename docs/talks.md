@@ -4,6 +4,9 @@ title: Talks & Workshops
 permalink: /talks/
 ---
 
+#### **Upcoming**
+
+[VISions of the future: Sustainable Practices within Visualization and Physicalization](https://visionsofthefuture.github.io) at IEEE VIS 2024 (Co-organiser)
 
 #### **2024**
 
