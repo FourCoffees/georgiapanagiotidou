@@ -4,7 +4,8 @@ title: Talks & Workshops
 permalink: /talks/
 ---
 
-#### **Upcoming**
+
+#### **2024**
 
 [Women in Computer Science Panel](#), March 19th 2024, King's College London
 
