@@ -17,7 +17,7 @@ Ideal candidate should have:
 
 NOTE: Due to the short duration, applicants should have the right to work in the UK.
 
-Contact Georgia Panagiotidou at georgia.panagiotidou@kcl.ac.uk with your CV by **July 15th, 2024**. 
+Contact Georgia Panagiotidou at georgia.panagiotidou@kcl.ac.uk with your CV by **July 10th, 2024**. 
 
 <br>
 <hr>
