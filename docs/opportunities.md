@@ -15,7 +15,7 @@ Ideal candidate should have:
 - Experience or interest in sustainability research
 - Research publications in reputable venues (if coming from a PhD)
 
-NOTE: Due to the short duration, applicants should have the right to work in the UK. The hiring will be organised through the [King’s Talent Bank](https://www.kingstalentbank.com/).
+NOTE: Due to the short duration, applicants should have the right to work in the UK. The hiring will be organised through the [King’s Talent Bank](https://www.directtemping.com/jobs/show/15620/hci-postdoc-researcher).
 
 Contact Georgia Panagiotidou at georgia.panagiotidou@kcl.ac.uk with your CV by **July 10th, 2024**. 
 
