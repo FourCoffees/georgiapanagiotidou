@@ -9,7 +9,7 @@ permalink: /opportunities/
 I am hiring a 6-month postdoctoral researcher at King's College London (UK) to work on the ecological impact of AI by documenting green(er) AI practices. The work will include interviewing developers, testing carbon visualisation tools in-the-wild and running two co-design workshops. The project is funded through an internal King’s Climate and Sustainability Seed Fund and is a collaboration with Dr Gabrielle Samuel.
 
 Ideal candidate should have: 
-- a PhD or MSc in HCI or related field
+- a PhD in HCI or related field
 - demonstrable experience conducting interviews, 
 - familiarity with ML research process 
 - Experience or interest in sustainability research
