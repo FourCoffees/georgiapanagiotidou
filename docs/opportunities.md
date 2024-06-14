@@ -17,7 +17,7 @@ Ideal candidate should have:
 
 NOTE: Due to the short duration, applicants should have the right to work in the UK. The hiring will be organised through the [King’s Talent Bank](https://www.directtemping.com/jobs/show/15620/hci-postdoc-researcher).
 
-Contact Georgia Panagiotidou at georgia.panagiotidou@kcl.ac.uk with your CV by **July 10th, 2024**. 
+Contact Georgia Panagiotidou at georgia.panagiotidou@kcl.ac.uk with your CV by **July 5th, 2024**. 
 
 <br>
 <hr>
