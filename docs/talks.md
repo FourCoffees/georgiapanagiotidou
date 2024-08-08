@@ -6,7 +6,12 @@ permalink: /talks/
 
 #### **Upcoming**
 
+[Designing Beyond the Individual](#) Invited talk Centre for Human-Computer Interaction Design Open Day
+
 [VISions of the future: Sustainable Practices within Visualization and Physicalization](https://visionsofthefuture.github.io) at IEEE VIS 2024 (Co-organiser)
+
+[Data Physicalization and Sustainabiltiy](#) Invited talk Weißensee Academy of Art Berlin
+
 
 #### **2024**
 
