@@ -6,14 +6,16 @@ permalink: /talks/
 
 #### **Upcoming**
 
-[VISions of the future: Sustainable Practices within Visualization and Physicalization](https://visionsofthefuture.github.io) at IEEE VIS 2024 (Co-organiser)
+[Pernambuco Seminar on Visualization and Sustainability](https://psvs.cin.ufpe.br), October 21-25, 2024, Recife, Brazil. Invited workshop and Program Chair.
 
-[Designing Beyond the Individual](#) Invited talk Centre for Human-Computer Interaction Design Open Day
+[VISions of the future: Sustainable Practices within Visualization and Physicalization](https://visionsofthefuture.github.io) at IEEE VIS 2024 (Co-organiser)
 
 [Data Physicalization and Sustainabiltiy](#) Invited talk, Weißensee Academy of Art Berlin
 
 
 #### **2024**
+
+[Designing Beyond the Individual](#) Invited talk Centre for Human-Computer Interaction Design Open Day
 
 [Dealing with Uncertainty in Digital History Research](https://dh2024.adho.org/program/), August 9th 2024, DH2024 Washington, USA
 
