@@ -15,7 +15,7 @@ permalink: /talks/
 
 #### **2024**
 
-[Designing Beyond the Individual](#) Invited talk Centre for Human-Computer Interaction Design Open Day
+[Designing Beyond the Individual](https://hcidopenday.co.uk), September 18, 2024, London. Invited talk Centre for Human-Computer Interaction Design Open Day, City University London.
 
 [Dealing with Uncertainty in Digital History Research](https://dh2024.adho.org/program/), August 9th 2024, DH2024 Washington, USA
 
