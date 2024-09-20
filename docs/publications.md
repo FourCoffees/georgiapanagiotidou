@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Publications
+title: Selected Publications
 permalink: /pubs/
 ---
+
+Full list can be found [here](https://kclpure.kcl.ac.uk/portal/en/persons/georgia.panagiotidou/publications/)
+
 #### 2024
 
 **[From Exploration to End of Life: Unpacking Sustainability in Physicalization Practices](https://kclpure.kcl.ac.uk/portal/en/publications/from-exploration-to-end-of-life-unpacking-sustainability-in-physi)**   
