@@ -6,14 +6,14 @@ permalink: /talks/
 
 #### **Upcoming**
 
-[Pernambuco Seminar on Visualization and Sustainability](https://psvs.cin.ufpe.br), October 21-25, 2024, Recife, Brazil. Invited workshop and Program Chair.
+[Data Physicalization and Sustainabiltiy](#) Invited talk, Weißensee Academy of Art Berlin, November 7th 2024.
 
-[VISions of the future: Sustainable Practices within Visualization and Physicalization](https://visionsofthefuture.github.io) at IEEE VIS 2024 (Co-organiser)
-
-[Data Physicalization and Sustainabiltiy](#) Invited talk, Weißensee Academy of Art Berlin
-
+[Beyond the individual – Designing Sustainable Futures with Energy Communities](#) Invited talk, KCL Net Zero Centre Research Seminar, November 25th 2024
 
 #### **2024**
+[Pernambuco Seminar on Visualization and Sustainability](https://psvs.cin.ufpe.br), October 21-25, 2024, Recife, Brazil. Invited session and Program Chair.
+
+[VISions of the future: Sustainable Practices within Visualization and Physicalization](https://visionsofthefuture.github.io) at IEEE VIS 2024 (Co-organiser)
 
 [Beyond the Individual:Designing with and for Energy Communities](https://hcidopenday.co.uk), September 18, 2024, London. Invited talk Centre for Human-Computer Interaction Design Open Day, City University London.
 
