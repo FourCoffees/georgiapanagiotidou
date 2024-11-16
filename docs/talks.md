@@ -9,7 +9,7 @@ permalink: /talks/
 
 [Beyond the individual – Designing Sustainable Futures with Energy Communities](#) Invited talk, KCL Net Zero Centre Research Seminar, November 25th 2024
 
-[Unlocking AI & Computer Science](#) Outreach course for girls and non-binary students thinking of applying for a degree in Computer Science or AI. November 258th 2024
+[Unlocking AI & Computer Science](#) Outreach course for girls and non-binary students thinking of applying for a degree in Computer Science or AI. November 28th 2024
 
 #### **2024**
 
