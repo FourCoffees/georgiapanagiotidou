@@ -8,12 +8,17 @@ Full list can be found [here](https://kclpure.kcl.ac.uk/portal/en/persons/georgi
 
 #### 2024
 
+
+**[A Taxonomy of Challenges to Curating Fair Datasets](https://kclpure.kcl.ac.uk/portal/en/publications/a-taxonomy-of-challenges-to-curating-fair-datasets)**   
+Dora Zhao, Morgan Scheuerman, Pooja Chitre, Jerone Andrews, **Georgia Panagiotidou**, Shawn Walker, Kathleen Pine, Alice Xiang
+38th Conference on Neural Information Processing Systems: Track on Datasets and Benchmarks (NeurIPS 2024)
+
 **[From Exploration to End of Life: Unpacking Sustainability in Physicalization Practices](https://kclpure.kcl.ac.uk/portal/en/publications/from-exploration-to-end-of-life-unpacking-sustainability-in-physi)**   
-Luiz Morais, Georgia Panagiotidou, Sarah Hayes, Tatiana Losev, Rebecca Noonan, Uta Hinrichs
+Luiz Morais, **Georgia Panagiotidou**, Sarah Hayes, Tatiana Losev, Rebecca Noonan, Uta Hinrichs
 Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24 BEST PAPER)
 
 **[SolarClub: Supporting Renewable Energy Communities through an Interactive Coordination System](https://kclpure.kcl.ac.uk/portal/en/publications/solarclub-supporting-renewable-energy-communities-through-an-inte)**   
-Georgia Panagiotidou, Enrico Costanza, Kyrill Potapov, Sonia Nkatha, Michael J. Fell, Farhan Samanani, Hannah Knox  
+**Georgia Panagiotidou**, Enrico Costanza, Kyrill Potapov, Sonia Nkatha, Michael J. Fell, Farhan Samanani, Hannah Knox  
 Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)
 
 #### 2023
