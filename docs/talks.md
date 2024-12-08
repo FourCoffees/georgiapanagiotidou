@@ -4,14 +4,13 @@ title: Talks & Workshops
 permalink: /talks/
 ---
 
-#### **Upcoming**
-[Chairing "AI and waste: tackling social and environmental challenges" Panel](#) King's Sustainability Seminar Series. November 19th 2024
+#### **2024**
+
+[Unlocking AI & Computer Science: Introduction to Human-Computer Interaction](#) Outreach course for girls and non-binary students thinking of applying for a degree in Computer Science or AI. November 28th & December 5th, 2024
 
 [Beyond the individual – Designing Sustainable Futures with Energy Communities](#) Invited talk, KCL Net Zero Centre Research Seminar, November 25th 2024
 
-[Unlocking AI & Computer Science](#) Outreach course for girls and non-binary students thinking of applying for a degree in Computer Science or AI. November 28th 2024
-
-#### **2024**
+[Chairing "AI and waste: tackling social and environmental challenges" Panel](#) King's Sustainability Seminar Series. November 19th 2024
 
 [Data Physicalization and Sustainabiltiy](#) Invited talk, Weißensee Academy of Art Berlin, November 7th 2024.
 
