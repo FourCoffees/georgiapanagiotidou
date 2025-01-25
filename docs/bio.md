@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Team
+title: team
 permalink: /team/
 ---
 
