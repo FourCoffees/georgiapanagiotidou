@@ -6,8 +6,13 @@ permalink: /pubs/
 
 Full list can be found [here](https://kclpure.kcl.ac.uk/portal/en/persons/georgia.panagiotidou/publications/)
 
-#### 2024
+#### 2025 & Forthcoming
 
+**[A Critical Analysis of Machine Learning Eco-feedback Tools through the Lens of Sustainable HCI](https://kclpure.kcl.ac.uk/portal/en/publications/a-critical-analysis-of-machine-learning-eco-feedback-tools-throug)**   
+Sinem Görücü, Luiz A. Morais, **Georgia Panagiotidou**,
+Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '25)
+
+#### 2024
 
 **[A Taxonomy of Challenges to Curating Fair Datasets](https://kclpure.kcl.ac.uk/portal/en/publications/a-taxonomy-of-challenges-to-curating-fair-datasets)**   
 Dora Zhao, Morgan Scheuerman, Pooja Chitre, Jerone Andrews, **Georgia Panagiotidou**, Shawn Walker, Kathleen Pine, Alice Xiang
