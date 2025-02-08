@@ -7,6 +7,7 @@ layout: page
 
 <!-- ![Georgia's Photo](assets/georgia.png) -->
 <img src="assets/georgia2.png" alt="Georgia's Photo" width="200"/>
+
 I am an Assistant Professor in the Department of Informatics at King’s College London. My research lies at the intersection of human-computer interaction (HCI), data visualization and sustainability. Overall, I focus on how people engage with data, particularly within interdisciplinary domains like sustainability, exploring key challenges such as biases, uncertainties, and friction in collective data use.
 
 My work often employs participatory methods, utilizing 'technology probes' to better understand how individuals and communities interact with data. Currently, I am working on human-centred technologies that enable communities to pursue Net-Zero goals, blending participatory design with data science to develop practical tools for community-driven sustainability. My latest project investigates the environmental impact of machine learning from the perspective of the interfaces developers and end-users experience (see also  Publications).
