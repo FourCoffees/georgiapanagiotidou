@@ -6,7 +6,7 @@ layout: page
 ---
 
 <!-- ![Georgia's Photo](assets/georgia.png) -->
-<img src="assets/georgia.png" alt="Georgia's Photo" width="200"/>
+<img src="assets/georgia2.png" alt="Georgia's Photo" width="200"/>
 
 I am an Assistant Professor in the Department of Informatics at King’s College London. My research lies at the intersection of human-computer interaction (HCI), data visualization and sustainability. Overall, I focus on how people engage with data, particularly within interdisciplinary domains like sustainability, exploring key challenges such as biases, uncertainties, and friction in collective data use.
 
