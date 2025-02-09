@@ -12,7 +12,7 @@ Sinem Görücü is a postgraduate researcher in the Department of Informatics, K
 [LinkedIn](www.linkedin.com/in/sinemgorucu)
 
 
-<img src="assets/yuheng.png" alt="Yuheng's Photo" width="150"/>
+<img src="assets/yuheng.jpg" alt="Yuheng's Photo" width="150"/>
 
 **Yuhen Ren**   
 _Research Assistant_   
