@@ -8,9 +8,14 @@ Full list can be found [here](https://kclpure.kcl.ac.uk/portal/en/persons/georgi
 
 #### 2025 & Forthcoming
 
+**[Disentangling the Power Dynamics in Participatory Data Physicalisation](https://kclpure.kcl.ac.uk/portal/en/publications/disentangling-the-power-dynamics-in-participatory-data-physicalis)**  
+Silvia Cazacu, **Georgia Panagiotidou**, Therese Steenberghen, Andrew Vande Moere.
+Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '25 HONORABLE MENTION)
+
+
 **[A Critical Analysis of Machine Learning Eco-feedback Tools through the Lens of Sustainable HCI](https://kclpure.kcl.ac.uk/portal/en/publications/a-critical-analysis-of-machine-learning-eco-feedback-tools-throug)**   
 Sinem Görücü, Luiz A. Morais, **Georgia Panagiotidou**,
-Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '25)
+Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '25 )
 
 #### 2024
 
