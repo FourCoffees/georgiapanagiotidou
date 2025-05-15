@@ -4,6 +4,12 @@ title: Talks & Workshops
 permalink: /talks/
 ---
 
+#### **2025 & Forthcoming**
+
+[Building Awareness Towards a Greener AI](https://www.kcl.ac.uk/events/building-awareness-towards-greener-ai) Research talk at the King's Festival of Artificial Intelligence. May 22nd 2025
+
+[Human-centred AI](#) Safe and Trusted AI CDT Masterclass. May 15th 2025.
+
 #### **2024**
 
 [Unlocking AI & Computer Science: Introduction to Human-Computer Interaction](#) Outreach course for girls and non-binary students thinking of applying for a degree in Computer Science or AI. November 28th & December 5th, 2024
