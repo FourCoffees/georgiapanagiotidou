@@ -8,6 +8,10 @@ Full list can be found [here](https://kclpure.kcl.ac.uk/portal/en/persons/georgi
 
 #### 2025 & Forthcoming
 
+**[As an individual, I suppose you can't really do much: Environmental Sustainability Perceptions of Machine Learning Practitioners](https://kclpure.kcl.ac.uk/portal/en/publications/as-an-individual-i-suppose-you-cant-really-do-much-environmental-)**  
+Sinem Görücü, Yuheng Ren, Gabrielle Samuel, **Georgia Panagiotidou**
+Proceedings of the ACM Conference on Fairness Accountability and Transparency (FAccT 2025). 
+
 **[Disentangling the Power Dynamics in Participatory Data Physicalisation](https://kclpure.kcl.ac.uk/portal/en/publications/disentangling-the-power-dynamics-in-participatory-data-physicalis)**  
 Silvia Cazacu, **Georgia Panagiotidou**, Therese Steenberghen, Andrew Vande Moere.
 Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '25 HONORABLE MENTION)
