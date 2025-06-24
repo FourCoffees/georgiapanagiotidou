@@ -6,6 +6,10 @@ permalink: /talks/
 
 #### **2025 & Forthcoming**
 
+[Tactics for supporting agency in AI environmental action](https://fourcoffees.github.io/environmentaltactics/). CRAFT workshop at FAccT 2025. Jun 24th, Athens, Greece.
+
+[Data visualisation for Digital Ethics](https://www.kuleuven.be/digisoc/education-and-training/hybrid-course-on-digital-ethics), KU Leuven Digital Society Institute, June 17th 2025, Belgium (Invited Lecture)
+
 [Building Awareness Towards a Greener AI](https://www.kcl.ac.uk/events/building-awareness-towards-greener-ai) Research talk at the King's Festival of Artificial Intelligence. May 22nd 2025
 
 [Human-centred AI](#) Safe and Trusted AI CDT Masterclass. May 15th 2025.
