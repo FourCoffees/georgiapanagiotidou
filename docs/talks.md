@@ -6,6 +6,8 @@ permalink: /talks/
 
 #### **2025 & Forthcoming**
 
+[Podcast Feature: Computer Says Maybe](https://www.themaybe.org/podcast/after-the-facct-materiality-and-militarisation)
+
 [Tactics for supporting agency in AI environmental action](https://fourcoffees.github.io/environmentaltactics/). CRAFT workshop at FAccT 2025. Jun 24th, Athens, Greece.
 
 [Data visualisation for Digital Ethics](https://www.kuleuven.be/digisoc/education-and-training/hybrid-course-on-digital-ethics), KU Leuven Digital Society Institute, June 17th 2025, Belgium (Invited Lecture)
