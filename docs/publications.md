@@ -8,6 +8,10 @@ Full list can be found [here](https://kclpure.kcl.ac.uk/portal/en/persons/georgi
 
 #### 2025 & Forthcoming
 
+**[Brokering Ethics: A Retrospective Study on the Use of a Data Ethics Framework](https://kclpure.kcl.ac.uk/portal/en/publications/brokering-ethics-a-retrospective-study-on-the-use-of-a-data-ethic)**  
+Sophia Worth, **Georgia Panagiotidou**, Elena Simperl  
+AAAI / ACM Conference on Artificial Intelligence, Ethics and Society
+
 **[As an individual, I suppose you can't really do much: Environmental Sustainability Perceptions of Machine Learning Practitioners](https://kclpure.kcl.ac.uk/portal/en/publications/as-an-individual-i-suppose-you-cant-really-do-much-environmental-)**  
 Sinem Görücü, Yuheng Ren, Gabrielle Samuel, **Georgia Panagiotidou**.  
 Proceedings of the ACM Conference on Fairness Accountability and Transparency (FAccT 2025). 
@@ -19,7 +23,7 @@ Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '25 
 
 **[A Critical Analysis of Machine Learning Eco-feedback Tools through the Lens of Sustainable HCI](https://kclpure.kcl.ac.uk/portal/en/publications/a-critical-analysis-of-machine-learning-eco-feedback-tools-throug)**   
 Sinem Görücü, Luiz A. Morais, **Georgia Panagiotidou**,
-Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '25 )
+Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '25)
 
 #### 2024
 
