@@ -9,7 +9,7 @@ Full list can be found [here](https://kclpure.kcl.ac.uk/portal/en/persons/georgi
 #### 2025 & Forthcoming
 
 **[Infrastructuring Critical Data Literacy through Role-playing: a Retrospective Study of the Game ‘Datopolis’](https://kclpure.kcl.ac.uk/portal/en/publications/e5bc5fee-df8f-4ed7-aa0b-9a72d818c1ad)**   
-Siliva Cazacu, Elena Simperl, Thuermer G., Massey, J., Steenberghen, T., **Georgia Panagiotidou** & Vande Moere, A.
+Siliva Cazacu, Elena Simperl, Thuermer G., Massey, J., Steenberghen, T., **Georgia Panagiotidou** & Vande Moere, A.    
 ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2025)
 
 **[Brokering Ethics: A Retrospective Study on the Use of a Data Ethics Framework](https://kclpure.kcl.ac.uk/portal/en/publications/brokering-ethics-a-retrospective-study-on-the-use-of-a-data-ethic)**  
