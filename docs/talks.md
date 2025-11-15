@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### **2025 & Forthcoming**
 
-[Guest Lecture](https://trail.ac/en/trail-summer-workshops/the-trail-summer-workshop-2024/submitted-projects-trail-summer-workshop-2025/) at the GreenAItelier: Sustainable AI Systems from Open Data to Policy Integration. August 2025.
+[Guest Lecture at TRAIL Workshop](https://trail.ac/en/trail-summer-workshops/the-trail-summer-workshop-2024/submitted-projects-trail-summer-workshop-2025/) at the GreenAItelier: Sustainable AI Systems from Open Data to Policy Integration. August 2025.
 
 [Podcast Feature: Computer Says Maybe](https://www.themaybe.org/podcast/after-the-facct-materiality-and-militarisation)
 
