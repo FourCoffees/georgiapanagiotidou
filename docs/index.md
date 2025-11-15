@@ -25,6 +25,5 @@ My research interests include:
 
 
 #### **Office Hours**
-Wednesdays 11am-12pm   
 S5.16 Bush House    
 Strand campus, 30 Aldwych, London, WC2B 4BG  
