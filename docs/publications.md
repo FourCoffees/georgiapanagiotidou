@@ -6,7 +6,17 @@ permalink: /pubs/
 
 Full list can be found [here](https://kclpure.kcl.ac.uk/portal/en/persons/georgia.panagiotidou/publications/)
 
-#### 2025 & Forthcoming
+#### 2026 & Forthcoming
+
+**[HCI-TERRA: HCI Towards EnviRonmentally Responsible AI](https://kclpure.kcl.ac.uk/portal/en/publications/hci-terra-hci-towards-environmentally-responsible-ai/)**
+**Georgia Panagiotidou**; Christina Bremer; Silvia Cazacu; Sinem Görücü; Nanna Inie; Luiz A. Morais; Raghavendra Selvan; Ben Snaith; Ana Valdivia
+Extended Abstract Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '26)
+
+**[Revealing the Power Dynamics of Collaborative Sense-Making Supported by Participatory Data Physicalization](https://dl.acm.org/doi/10.1145/3772318.3791052)**  
+Silvia Cazacu; **Georgia Panagiotidou**; Andrew Vande Moere
+Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '26 HONORABLE MENTION)
+
+#### 2025
 
 **[Infrastructuring Critical Data Literacy through Role-playing: a Retrospective Study of the Game ‘Datopolis’](https://kclpure.kcl.ac.uk/portal/en/publications/e5bc5fee-df8f-4ed7-aa0b-9a72d818c1ad)**   
 Siliva Cazacu, Elena Simperl, Thuermer G., Massey, J., Steenberghen, T., **Georgia Panagiotidou** & Vande Moere, A.    
