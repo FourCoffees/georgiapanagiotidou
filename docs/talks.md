@@ -4,7 +4,18 @@ title: Talks & Workshops
 permalink: /talks/
 ---
 
-#### **2025 & Forthcoming**
+#### **2026 & Forthcoming**
+[Data visualisation for Digital Ethics](https://www.kuleuven.be/digisoc/education-and-training/hybrid-course-on-digital-ethics), KU Leuven Digital Society Institute, 2026, Belgium (Invited Lecture)
+
+[Building Awareness Towards Environmentally Responsible AI through Visualisation]() Keynote at French Visualization Day 2026. Paris
+
+[Sustainable AI/Literacy](https://www.kcl.ac.uk/events/technical-workflows-for-ai-research-skills-challenges-and-future-developments) STEP-UP: Technical workflows for AI research. April 15th 2026
+
+[HCI-TERRA: HCI Towards EnviRonmentally Responsible AI](https://hci-terra.github.io) at CHI 2026 (Lead Organiser)
+
+[Building Awareness Towards Environmentally Responsible AI]() Invited talk at the giCentre, City St George's, University of London. March 2026
+
+#### **2025**
 
 [Guest Lecture at TRAIL Workshop](https://trail.ac/en/trail-summer-workshops/the-trail-summer-workshop-2024/submitted-projects-trail-summer-workshop-2025/) at the GreenAItelier: Sustainable AI Systems from Open Data to Policy Integration. August 2025.
 
