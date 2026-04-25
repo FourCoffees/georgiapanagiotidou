@@ -10,7 +10,7 @@ layout: page
 
 I am an Assistant Professor in the Department of Informatics at King’s College London. My research lies at the intersection of human-computer interaction (HCI), data visualization and sustainability. Overall, I focus on how people engage with data, particularly within interdisciplinary domains like sustainability, exploring key challenges such as biases, uncertainties, and friction in collective data use.
 
-My work often employs participatory methods, utilizing 'technology probes' to better understand how individuals and communities interact with data. Currently, I am working on human-centred technologies that enable communities to pursue Net-Zero goals, blending participatory design with data science to develop practical tools for community-driven sustainability. My latest project investigates the environmental impact of machine learning from the perspective of the interfaces developers and end-users experience (see also  Publications).
+My work often employs participatory methods, utilizing 'technology probes' to better understand how individuals and communities interact with data. Currently, I am working on human-centred technologies that enable communities to pursue Net-Zero goals, blending participatory design with data science to develop practical tools for community-driven sustainability. My latest work investigates how to promote more environmentaly responsible AI, looking to connect bridges between HCI and sustainable computing.  
 
 Before returning to academia, I worked in the field of data design and journalism, contributing to the data team of _Helsingin Sanomat_, the largest daily newspaper in Finland, as well as to multiple NGOs including the Open Knowledge Foundation Finland where I developed data visualizations that reached wide audiences.
 
@@ -19,8 +19,8 @@ Before returning to academia, I worked in the field of data design and journalis
 My research interests include:
 
 - Human-computer Interaction
-- Sustainability and Ecofeedback
-- Enviromental Impact of ML
+- Enviromentaly Responsible AI
+- Sustainability and Energy Communities
 - Data Visualisation and Physicalisation
 
 
