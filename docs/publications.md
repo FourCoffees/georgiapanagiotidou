@@ -9,11 +9,11 @@ Full list can be found [here](https://kclpure.kcl.ac.uk/portal/en/persons/georgi
 #### 2026 & Forthcoming
 
 **[HCI-TERRA: HCI Towards EnviRonmentally Responsible AI](https://kclpure.kcl.ac.uk/portal/en/publications/hci-terra-hci-towards-environmentally-responsible-ai/)**  
-**Georgia Panagiotidou**; Christina Bremer; Silvia Cazacu; Sinem Görücü; Nanna Inie; Luiz A. Morais; Raghavendra Selvan; Ben Snaith; Ana Valdivia
+**Georgia Panagiotidou**; Christina Bremer; Silvia Cazacu; Sinem Görücü; Nanna Inie; Luiz A. Morais; Raghavendra Selvan; Ben Snaith; Ana Valdivia  
 Extended Abstract Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '26)
 
 **[Revealing the Power Dynamics of Collaborative Sense-Making Supported by Participatory Data Physicalization](https://dl.acm.org/doi/10.1145/3772318.3791052)**  
-Silvia Cazacu; **Georgia Panagiotidou**; Andrew Vande Moere
+Silvia Cazacu; **Georgia Panagiotidou**; Andrew Vande Moere  
 Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '26 HONORABLE MENTION)
 
 #### 2025
