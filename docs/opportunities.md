@@ -5,7 +5,8 @@ permalink: /opportunities/
 ---
 
 ----
-**Postdoctoral Research Associate in Human-Computer Interaction**
+
+<!-- **Postdoctoral Research Associate in Human-Computer Interaction**
 
 I am hiring for a 3-year fully funded postdoctoral researcher position for a (preferred) September 2026 entry.
 
@@ -22,7 +23,8 @@ Application portal: [https://www.kcl.ac.uk/jobs/145865-postdoctoral-research-ass
 
 Contact for any questions: georgia.panagiotidou@kcl.ac.uk
 
----- 
+----!>
+
 **PhDs**
 
 I am always looking to recruit motivated PhD students to work with me in the Human Centred Computing group at King's. I am keen to work with PhD students interested in projects in HCI, data visualisation/physicalisation and sustainability. Look at my publications to get an idea of my interests.
