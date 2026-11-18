@@ -8,7 +8,7 @@ Full list can be found [here](https://kclpure.kcl.ac.uk/portal/en/persons/georgi
 
 #### 2026 & Forthcoming
 
-[**Designing Within the Lines: Practitioners’ Perspectives and Visualisation Tool Evaluation in the Arabic Context**]. Alebri, M., Rakotondravony, N., Bechqito, Y., **Panagiotidou, G**., Harrison, L., Aldhanhabi, H., & Alkaabi, S. (2026).  IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS.
+[**Designing Within the Lines: Practitioners’ Perspectives and Visualisation Tool Evaluation in the Arabic Context**](https://kclpure.kcl.ac.uk/portal/files/383439862/2026_VIS_RTL_Interviews_tools_revised_-2.pdf). Alebri, M., Rakotondravony, N., Bechqito, Y., **Panagiotidou, G**., Harrison, L., Aldhanhabi, H., & Alkaabi, S. (2026).  IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS.
 
 [**EcoChat Probe: How Energy Feedback Shapes End Users’ Interpretations of Everyday Generative AI Use**](https://doi.org/10.1145/3805689.3812368 ) Ren, Y., Augusto Morais, L., Calegario, F., Krupa, F., Paulo Magalhães Simões, F., Ferreira, N., & **Panagiotidou, G.** (2026). Proceedings of the 9th annual ACM Conference on Fairness, Accountability, and Transparency (FAccT ’26)
 
