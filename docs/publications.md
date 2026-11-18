@@ -8,6 +8,10 @@ Full list can be found [here](https://kclpure.kcl.ac.uk/portal/en/persons/georgi
 
 #### 2026 & Forthcoming
 
+[**Designing Within the Lines: Practitioners’ Perspectives and Visualisation Tool Evaluation in the Arabic Context**]. Alebri, M., Rakotondravony, N., Bechqito, Y., **Panagiotidou, G**., Harrison, L., Aldhanhabi, H., & Alkaabi, S. (2026).  IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS.
+
+[**EcoChat Probe: How Energy Feedback Shapes End Users’ Interpretations of Everyday Generative AI Use**](https://doi.org/10.1145/3805689.3812368 ) Ren, Y., Augusto Morais, L., Calegario, F., Krupa, F., Paulo Magalhães Simões, F., Ferreira, N., & **Panagiotidou, G.** (2026). Proceedings of the 9th annual ACM Conference on Fairness, Accountability, and Transparency (FAccT ’26)
+
 **[HCI-TERRA: HCI Towards EnviRonmentally Responsible AI](https://kclpure.kcl.ac.uk/portal/en/publications/hci-terra-hci-towards-environmentally-responsible-ai/)**  
 **Georgia Panagiotidou**; Christina Bremer; Silvia Cazacu; Sinem Görücü; Nanna Inie; Luiz A. Morais; Raghavendra Selvan; Ben Snaith; Ana Valdivia  
 Extended Abstract Proceedings of the CHI Conference on Human Factors in Computing Systems(CHI '26)
